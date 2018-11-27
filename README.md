@@ -1,2 +1,2 @@
 # PHP
-Keluh Kesah Yg Du buat Dengan PHP Entah percintaan atau Apapun
+Keluh Kesah Yg Di buat Dengan PHP Entah percintaan atau Apapun
